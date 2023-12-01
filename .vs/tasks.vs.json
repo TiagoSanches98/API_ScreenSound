@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-IValidado",
+      "appliesTo": "Musicas/ScreenSound03-projeto-inicial/ScreenSound03-projeto-inicial/ScreenSound/Modelos/IValidado.cs",
+      "type": "launch"
+    }
+  ]
+}
